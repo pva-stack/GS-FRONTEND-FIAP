@@ -1,2 +1,10 @@
 # GS-FRONTEND-FIAP
+
+##GRUPO :
+
+Pedro Viana 572971
+Lucas Kobayashi 569905
+Jhonathan Dourado 569568
+João Matheus 569850
+
 Global Solution - FIAP
